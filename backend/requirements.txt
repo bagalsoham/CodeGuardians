@@ -1,0 +1,15 @@
+flask
+flask-cors
+python-dotenv
+langchain
+langchain-community>=0.0.20
+langchain-core
+langchain-groq
+langchain-text-splitters
+faiss-cpu==1.7.4
+huggingface-hub
+pypdf
+
+# Specific stable versions:
+transformers==4.34.1
+sentence-transformers==2.2.2
